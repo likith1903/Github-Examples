@@ -1,4 +1,4 @@
-// See https://containers.dev/implementors/json_reference/ for configuration reference
+gh// See https://containers.dev/implementors/json_reference/ for configuration reference
 {
 "name": "basic configure",
 "customizations": {
